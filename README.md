@@ -1,7 +1,7 @@
 # redux
 27行代码实现的精简版redux
 
-## 与我们熟知的rudex用法一样
+## 与我们熟知的redux用法一样
   ```
   const action = {
 	  type:'ADD_TODO',
